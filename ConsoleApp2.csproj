@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <ApplicationIcon>disk.ico</ApplicationIcon>
+    <RootNamespace>ConsoleApp2</RootNamespace>
+    <AssemblyName>fmcde2txt</AssemblyName>
+  </PropertyGroup>
+
+</Project>
